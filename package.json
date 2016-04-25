@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/geraldyeo/learner-space/issues"
   },
-  "homepage": "https://github.com/geraldyeo/learner-space#readme"
+  "homepage": "https://github.com/geraldyeo/learner-space#readme",
+  "dependencies": {
+    "express": "4.13.4",
+    "pm2": "^1.1.2"
+  }
 }
